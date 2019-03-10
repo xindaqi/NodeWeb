@@ -1,0 +1,1 @@
+PORT=8090 DOMAIN=0.0.0.0 node ./bin/www
